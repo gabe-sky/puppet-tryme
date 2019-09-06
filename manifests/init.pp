@@ -6,9 +6,6 @@
 #   include tryme
 class tryme {
 
-  file { 'C:/Windows/Is/Great':
-    ensure => directory,
-  }
-  notify { $facts['fqdn']: }
+  notify { 'First iteration': }
 
 }
