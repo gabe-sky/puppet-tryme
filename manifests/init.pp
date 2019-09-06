@@ -6,6 +6,6 @@
 #   include tryme
 class tryme {
 
-  notify { 'First iteration': }
+  notify { 'Delivering a module': }
 
 }
