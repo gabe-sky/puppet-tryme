@@ -6,6 +6,6 @@
 #   include tryme
 class tryme {
 
-  notify { 'Delivering a module': }
+  notify { 'Wednesday ten forty-nine': }
 
 }
