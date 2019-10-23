@@ -6,6 +6,6 @@
 #   include tryme
 class tryme {
 
-  notify { 'Wednesday ten forty-nine': }
+  notify { 'Wednesday four thirty-ish': }
 
 }
